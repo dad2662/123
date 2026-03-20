@@ -1,0 +1,6 @@
+E:\塔防\Temp\bin\Debug\Assembly-CSharp.dll
+E:\塔防\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\塔防\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+E:\塔防\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+E:\塔防\obj\Debug\Assembly-CSharp.dll
+E:\塔防\obj\Debug\Assembly-CSharp.pdb
